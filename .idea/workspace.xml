@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0fbe81b2-58d9-4778-828a-d21bddb43647" name="Default Changelist" comment="" />
+    <list default="true" id="0fbe81b2-58d9-4778-828a-d21bddb43647" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testFor.py" beforeDir="false" afterPath="$PROJECT_DIR$/testFor.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZtPQno8nmL1BT8VPr0ZB5S7aDs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager" selected="Python.testFor">
     <configuration name="carPgm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -152,27 +161,63 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="496" y="39" key="#nameValidation" timestamp="1585665213529">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="496" y="39" key="#nameValidation/0.0.1536.824@0.0.1536.824" timestamp="1585665213529" />
-    <state width="1364" height="195" key="GridCell.Tab.0.bottom" timestamp="1585668595577">
+    <state width="1364" height="195" key="GridCell.Tab.0.bottom" timestamp="1585723748511">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1364" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585668595577" />
-    <state width="1364" height="195" key="GridCell.Tab.0.center" timestamp="1585668595577">
+    <state width="1364" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585723748511" />
+    <state width="1364" height="195" key="GridCell.Tab.0.center" timestamp="1585723748510">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1364" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585668595577" />
-    <state width="1364" height="195" key="GridCell.Tab.0.left" timestamp="1585668595577">
+    <state width="1364" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585723748510" />
+    <state width="1364" height="195" key="GridCell.Tab.0.left" timestamp="1585723748510">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1364" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585668595577" />
-    <state width="1364" height="195" key="GridCell.Tab.0.right" timestamp="1585668595577">
+    <state width="1364" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585723748510" />
+    <state width="1364" height="195" key="GridCell.Tab.0.right" timestamp="1585723748510">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1364" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585668595577" />
+    <state width="1364" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585723748510" />
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1585655461800">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
